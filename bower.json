@@ -1,0 +1,11 @@
+{
+  "name": "whimsical-ripple",
+  "version": "0.0.1",
+  "authors": [
+    "Gilles Piou <gilles.piou@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "angular": ">1.0.0"
+  }
+}
