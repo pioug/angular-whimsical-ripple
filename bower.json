@@ -5,6 +5,12 @@
     "Gilles Piou <gilles.piou@gmail.com>"
   ],
   "license": "MIT",
+  "keywords": [
+    "angular",
+    "material",
+    "ripple"
+  ],
+  "main": "whimsicalRipple.js",
   "dependencies": {
     "angular": ">1.0.0"
   }
