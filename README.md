@@ -27,4 +27,6 @@ Usage
 Browser compatibility
 ---
 
-Latest Chrome and Firefox.
+- Chrome
+- Firefox
+- Safari 8
