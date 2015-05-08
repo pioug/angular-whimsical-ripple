@@ -1,8 +1,8 @@
-**whimsical-ripple** is a Angular directive to create a ripple effect.
+**angular-whimsical-ripple** is a Angular directive to create a ripple effect.
 
 Preview
 ---
-[http://pioug.github.io/whimsical-ripple](http://pioug.github.io/whimsical-ripple)
+[http://pioug.github.io/angular-whimsical-ripple](http://pioug.github.io/angular-whimsical-ripple)
 
 
 Usage
