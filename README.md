@@ -8,17 +8,22 @@ Preview
 Usage
 ---
 
-1. Embed the script in your HTML file:
+1. Install package via `bower`:
+  ```sh
+    bower install --save angular-whimsical-ripple
+  ```
+
+2. Embed the script in your HTML file:
   ```html
     <script src="whimsicalRipple.js"></script>
   ```
 
-2. Load `whimsicalRipple` as a module dependency of your Angular application:
+3. Load `whimsicalRipple` as a module dependency of your Angular application:
   ```js
     angular.module('demoRipple', ['whimsicalRipple']);
   ```
 
-3. Use the HTML class `ripple` (and `ripple-light`) to create a ripple effect on a clickable element:
+4. Use the HTML class `ripple` (and `ripple-light`) to create a ripple effect on a clickable element:
   ```html
     <a class="ripple">Link #1</a>
     <a class="ripple ripple-light">Link #2</a>
