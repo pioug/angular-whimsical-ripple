@@ -78,7 +78,7 @@
             ripple[0].style.left = left + 'px';
             ripple[0].style.top = top + 'px';
             ripple.on('animationend webkitAnimationEnd', function() {
-              this.remove();
+              angular.element(this).remove();
             });
 
             element.append(ripple);
