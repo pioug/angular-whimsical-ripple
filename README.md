@@ -35,3 +35,4 @@ Browser compatibility
 - Chrome
 - Firefox
 - Safari 8
+- Internet Explorer 11
