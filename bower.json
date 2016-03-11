@@ -1,10 +1,16 @@
 {
-  "name": "whimsical-ripple",
+  "name": "angular-whimsical-ripple",
   "version": "0.0.1",
   "authors": [
     "Gilles Piou <gilles.piou@gmail.com>"
   ],
   "license": "MIT",
+  "keywords": [
+    "angular",
+    "material",
+    "ripple"
+  ],
+  "main": "whimsicalRipple.js",
   "dependencies": {
     "angular": ">1.0.0"
   }
