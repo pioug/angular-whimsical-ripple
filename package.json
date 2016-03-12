@@ -3,15 +3,12 @@
   "version": "1.0.0",
   "description": "**angular-whimsical-ripple** is a Angular directive to create a ripple effect.",
   "main": "whimsicalRipple.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/pioug/angular-whimsical-ripple.git"
   },
   "author": "Gilles Piou",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/pioug/angular-whimsical-ripple/issues"
   },
