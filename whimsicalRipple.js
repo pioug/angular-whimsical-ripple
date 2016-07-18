@@ -11,15 +11,15 @@
         rippleWebkitKeyframes;
 
       rippleCSS = [
-        '-webkit-animation: ripple 800ms ease-out;',
-        'animation: ripple 800ms ease-out;',
+        '-webkit-animation: ripple 400ms ease-out;',
+        'animation: ripple 400ms ease-out;',
         'background-color: rgba(0, 0, 0, 0.16);',
         'border-radius: 100%;',
-        'height: 10px;',
+        'height: 2px;',
         'pointer-events: none;',
         'position: absolute;',
         'transform: scale(0);',
-        'width: 10px;'
+        'width: 2px;'
       ];
 
       rippleLightCSS = 'background-color: rgba(255, 255, 255, 0.32);';
